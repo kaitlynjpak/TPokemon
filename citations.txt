@@ -1,0 +1,31 @@
+Below the dashed line, include easily understandable and verifiable 
+citations to all the major sources you used for your project, as described
+in the TP document: 
+https://www.cs.cmu.edu/~112/notes/term-project-and-hack112.html#tp-policies
+
+In addition, your code must also include citations directly in the code that 
+make it clear where you use code that is partly or entirely not of your 
+original design, and what the source is for that code.
+------------------------------------>
+
+ChatGPT was used for creating the damage and evasion functions in combat
+
+Microsoft Copilot was used to create AI generated Welcome page
+
+ChatGPT was used for filepath and qtables
+
+ChatGPT was used to create assetsUtils and qtablesUtils files
+
+ChatGPT was used for the getTile, drawTile functions and debugging some circular
+import issues
+
+https://medium.com/@nancy.q.zhou/teaching-an-ai-to-play-the-snake-game-using-reinforcement-learning-6d2a6e8f3b1c 
+was also used for to outline what I needed for the RL files 
+(more specifically, i used it to figure out what steps to take to make a reinforcement learning algorithm in python
+for a turn based game since I planned to use qlearning).
+
+used for qlearning:
+1. https://www.youtube.com/watch?v=MI8ByADMh20 
+2. https://www.youtube.com/watch?v=RiSCh4H-GY4 
+3. https://www.youtube.com/watch?v=iKdlKYG78j4 to help understand and write the RL Q learning section
+4. https://www.geeksforgeeks.org/q-learning-in-python/ to help flesh out the framework for q learning file
